@@ -1,0 +1,21 @@
+#photo {
+    border: solid blue 2px;
+}
+#heading {
+    color: blue;
+}
+
+.name {
+    color: blue;
+}
+#color h1 {
+    color: blue;
+}
+div h2 {
+    color: gray;
+}
+
+div {
+    
+    margin: 4px;
+}
