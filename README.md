@@ -1,11 +1,31 @@
-# Introduction-to-Front-End-Development-Meta-Course
+<h1 align="center># Introduction-to-Front-End-Development-Meta-Course</h1>
+           
+## 💻 Project
 
-<h2>Here you find the exercises I have done during this course from Meta.</h2>
-<p>index.html file is little project practising the base of HTML styled by CSS. It was a single webpage of the restaurante menu.</p>
-<img align="center">![Imagem index  html](https://user-images.githubusercontent.com/107444675/180260622-06bade16-f4bd-46ea-a98d-08cde019d411.JPG)</img>
+<h2 align="center">Here you find the exercises I have done during this course from Meta.</h2>
+                  
+## 🔖 Layout
 
-In the index1.html file you find a social media profile page, using few functions as ordered and unordered lists, styled by CSS as well.
-![imagem index1  html](https://user-images.githubusercontent.com/107444675/180261312-9f8ec979-20f7-4ed7-ac5b-c97f5fcb1ac5.JPG)
+<h4 align="center">index.html file is little project practising the base of HTML styled by CSS. It was a single webpage of the restaurante menu.</h4>
+  
+<p align="center"><img src="https://github.com/viviandemitry/Introduction-to-Front-End-Development-Meta-Course/blob/main/Imagem%20index.%20html.JPG"></p> 
+<br>
+                                                                                                                                                    
+<h4 align="center">In the index1.html file you find a social media profile page, using few functions as ordered and unordered lists, styled by CSS as well.</h4>
+  
+<p align="center"><img src="https://github.com/viviandemitry/Introduction-to-Front-End-Development-Meta-Course/blob/main/imagem%20index1.%20html.JPG"></p> 
+<br>
+                                                                                                                                                    
+                                                                                                                                                     
+<h4 align="center">In the file UI frameworks and Libraries, that code came from other projetc using Bootstrap Library:</h4>
+  
+<p align="center"><img src="https://github.com/viviandemitry/Introduction-to-Front-End-Development-Meta-Course/blob/main/using%20boostrap.JPG"></p> 
+<br>
+                                                                                                                                                    
 
-In the file UI frameworks and Libraries, that code came from other projetc using Bootstrap Library:
-![using boostrap](https://user-images.githubusercontent.com/107444675/180263086-ce5dd17d-5481-465f-88ff-22b2642312d1.JPG)
+## 🚀 Technologies
+
+Those projects were developed with these technologies bellow:
+
+- HTML e CSS
+- Bootstrap library.
