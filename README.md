@@ -25,7 +25,8 @@
 
 ## 🚀 Technologies
 
-Those projects were developed with these technologies bellow:
-
-- HTML e CSS
+<h4 align="center">Those projects were developed with these technologies bellow:</h4>
+<h6 align="center">
+- HTML e CSS <br>
 - Bootstrap library.
+</h6>
