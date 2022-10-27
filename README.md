@@ -2,7 +2,7 @@
            
 ## 💻 Project
 
-<h2 align="center">Here you find the exercises I did during this course from Meta.</h2>
+<h3 align="center">Here you find the exercises I did during this course from Meta.</h3>
                   
 ## 🔖 Layout
 
